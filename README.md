@@ -3,7 +3,7 @@
 
 
 
-These analysis is done to leverage my analytics skills using some python libraries to analyse the data and further make use of power bi to visualize the data to get more insight and make recommendations.
+These analysis is done to leverage my analytics skills using some python libraries and further  use  power bi to visualize the data to get more insight and make recommendations.
 
 Here are some of the questions use for data cleaning and exploration
 
