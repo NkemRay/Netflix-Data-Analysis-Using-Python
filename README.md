@@ -1,11 +1,14 @@
-# Netflix-Data-Analysis-Using-Python
+# Netflix Data Analysis
 
+## Introduction
 
-
-
+Netflix is a streaming service that offers a wide variety of award wining TV shows, movies, animation, documentaries and more on thousands of internets connected devices
 These analysis is done to leverage my analytics skills using some python libraries and further  use  power bi to visualize the data to get more insight and make recommendations.
 
-Here are some of the questions use for data cleaning and exploration
+## Data pre-processing 
+Python libraries such as pandas, seaborn, Numpy and Matplotlip were used for the analysis. I use this tool for cleaning and statistical analysis.
+
+### Here are some of the questions use for data cleaning and exploration
 
 1; Importing some important libraries for this analysis
 
@@ -35,7 +38,8 @@ Here are some of the questions use for data cleaning and exploration
 
 14; Find the correlation between the duration of a movie or TV show and its rating?
 
-
 15; What are the top directors of movies and TV shows on Netflix?
+
+
 
 
