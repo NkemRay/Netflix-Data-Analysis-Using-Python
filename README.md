@@ -40,6 +40,14 @@ Python libraries such as pandas, seaborn, Numpy and Matplotlip were used for the
 
 15; What are the top directors of movies and TV shows on Netflix?
 
+# Data Visualization
 
+The vizz was done using power BI 
 
+1;  Avg.Duration by types
+
+![](https://github.com/NkemRay/Netflix-Data-Analysis-Using-Python/blob/main/power%20bi%20images/duration%20by%20types.png)
+
+2; Distribution of movies and TV shows 
+![]()
 
